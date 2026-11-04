@@ -1,4 +1,4 @@
-import org.jetbrains.kotlin.gradle.dsl.JvmTarget
+(897)import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 
 plugins {
 	id("jadx-java")
